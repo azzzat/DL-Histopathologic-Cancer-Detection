@@ -1,7 +1,9 @@
 # 🩺 Metastatic Cancer Detection
 
-This repository implements an end-to-end deep learning pipeline to detect metastatic cancer in pathology image patches. The project uses a Convolutional Neural Network (CNN) to classify image patches as either containing tumor tissue (label 1) or not (label 0). The data comes from high-resolution pathology images with binary labels for classification.
-📁 Project Structure
+This repository implements an end-to-end deep learning pipeline to detect metastatic cancer in pathology image patches. The project uses a Convolutional Neural Network (CNN) to classify image patches as either containing tumor tissue (label 1) or not (label 0). The data comes from high-resolution pathology images with binary labels for classification. 
+Project source: https://www.kaggle.com/c/histopathologic-cancer-detection
+
+# 📁 Project Structure
 
     data/: Dataset with labeled image patches for training and testing.
     notebooks/: Jupyter notebooks for exploratory data analysis (EDA), preprocessing, and training.
